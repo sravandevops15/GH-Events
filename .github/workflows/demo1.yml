@@ -5,6 +5,7 @@ on:
       - opened
       - edited
       - closed
+  workflow_dispatch:
 jobs:
   deploy:
     runs-on: ubuntu-latest
