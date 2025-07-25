@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "system uptime is "
-uptime -p
+# copilot_test.sh - Print system uptime
+
+uptime
